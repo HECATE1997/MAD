@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 05 14:02:27 NPT 2019
+0.baseType=DIRECTORY
+0.base=/Users/mac/Desktop/MAD GIT/developing_mobile_app/week5/examples/TabExperiment/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
